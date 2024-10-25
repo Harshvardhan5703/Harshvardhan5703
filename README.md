@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Singh Shekhawat</h1>
 <h3 align="center">A passionate web developer and ML enthusiast.</h3>
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  height="100" alt="hellooooo"/>
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"   alt="hellooooo"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshvardhan5703&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan5703" /> </p>
 
